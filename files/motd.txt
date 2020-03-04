@@ -1,0 +1,1 @@
+[0m[2;3HWelcome to my test telnet server, simulating 300 baud.[4;3H[5;3HRight now I'm working on a game and some ANSI art to look at.
